@@ -231,75 +231,75 @@ annotations:
     reference: ''
     span:
       start: 43511
-      end: 44883
+      end: 44884
     note_ref: 4c18eaf44a954af784bb417b1a0701c6
   b58259c371b749008a69a9462071eaa1:
     imgnum: 1605
     reference: ''
     span:
-      start: 44885
-      end: 46244
+      start: 44886
+      end: 46245
     note_ref: 4c18eaf44a954af784bb417b1a0701c6
   200b883e5eab4aaa813ac4e97a7c2c40:
     imgnum: 1606
     reference: ''
     span:
-      start: 46246
-      end: 47554
+      start: 46247
+      end: 47555
     note_ref: 4c18eaf44a954af784bb417b1a0701c6
   f1c20192fb7c417c80d7687b7b4c4c69:
     imgnum: 1607
     reference: ''
     span:
-      start: 47556
-      end: 48958
+      start: 47557
+      end: 48959
     note_ref: 4c18eaf44a954af784bb417b1a0701c6
   48d80c8b05c342b8868b40f75fff7ed5:
     imgnum: 1608
     reference: ''
     span:
-      start: 48960
-      end: 50315
+      start: 48961
+      end: 50316
     note_ref: 4c18eaf44a954af784bb417b1a0701c6
   a01855c9a7af4f40b5a2c1c7f0a6d1ba:
     imgnum: 1609
     reference: ''
     span:
-      start: 50317
-      end: 51653
+      start: 50318
+      end: 51654
     note_ref: 4c18eaf44a954af784bb417b1a0701c6
   9aad073ee5ab41889dc6266efba5d570:
     imgnum: 1610
     reference: ''
     span:
-      start: 51655
-      end: 53054
+      start: 51656
+      end: 53055
     note_ref: 7e7148e2613d44859c0516399d275450
   a96f657904a843fd91ebebe90f4cae3c:
     imgnum: 1611
     reference: ''
     span:
-      start: 53056
-      end: 54436
+      start: 53057
+      end: 54437
     note_ref: 7e7148e2613d44859c0516399d275450
   f914e764656740df826766e3a0a8cf00:
     imgnum: 1612
     reference: ''
     span:
-      start: 54438
-      end: 55447
+      start: 54439
+      end: 55448
   4c18eaf44a954af784bb417b1a0701c6:
     imgnum: 1613
     reference: ''
     span:
-      start: 55449
-      end: 57185
+      start: 55450
+      end: 57186
   7e7148e2613d44859c0516399d275450:
     imgnum: 1614
     reference: ''
     span:
-      start: 57187
-      end: 57390
+      start: 57188
+      end: 57391
 local_ids:
   5a0ab910a8584013bb2056d3248833e4: 200000
   a978e65c81cb43d9905da0f7c07452d1: 200001
